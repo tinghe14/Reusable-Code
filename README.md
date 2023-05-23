@@ -14,5 +14,5 @@ $`\textcolor{green}{\text{3}}`$
 
 # Data Wrangling
 transform raw data into useable format
-### read file
+### Read File
 - [read csv one by one]()
