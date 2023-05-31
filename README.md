@@ -23,6 +23,10 @@ transform raw data into useable format
 anything from construct model architecture to training, evaluating model performance
 ### Model Construction
 - [breif summary of training parameter](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
+### Model Training
+- [huggingface transfer learning train, validate and predict in scripts submitted to google colab]()
+- [huggingface transfer learning train, validate and predict in scripts submitted to cloud/GCP]()
+- [huggingface transfer learning train, validate and predict in scripts submitted to cluster]()
 
 # Advanced Technique in ML
 ### Ensemble 
