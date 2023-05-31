@@ -22,7 +22,7 @@ transform raw data into useable format
 # Model
 anything from construct model architecture to training, evaluating model performance
 ### Model Construction
-- [breif summary of training parameter]()
+- [breif summary of training parameter](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
 
 # Advanced Technique in ML
 ### Ensemble 
