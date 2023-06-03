@@ -32,7 +32,7 @@ anything from construct model architecture to training, evaluating model perform
 - [single GPU]
 - [multi GPUs]
 ### Distributed Data Parallel
-- [多机多卡]
+- [Other blog in Chinese - 分布式训练 - 多机多卡](https://blog.csdn.net/love1005lin/article/details/116456422)
 
 # Advanced Technique in ML
 ### Ensemble 
