@@ -74,5 +74,4 @@ https://www.1point3acres.com/bbs/thread-997815-1-1.html
 - LZ 是想去搞 LLM，或者说是想去 OpenAI/Google Bard 这种吗？如果不是下面的建议不用看。
 - 建议 LZ 跳出学生思维：不是我会这个技术，我就能去搞。
 - 想明白这一点：你能为别人贡献什么，别人为什么需要你？
-
 --->
