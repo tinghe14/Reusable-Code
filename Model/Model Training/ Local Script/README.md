@@ -1,6 +1,6 @@
 # README
 
-My code finished on June 05, 2023. This scrpts originally is for ner task using bert model. 
+Code finished by my own on June 05, 2023. This scrpts originally is for ner task using bert model. 
 
 # Structure
 - 📂 __Gene\_NER\_Clean\_Script\_wocluster__
