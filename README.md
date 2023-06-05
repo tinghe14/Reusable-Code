@@ -34,7 +34,7 @@ transform raw data into useable format
 anything from construct model architecture to training, evaluating model performance
 ### Model Training
 <a id='mt'></a>
-- [local script]():contain scripts from pre-cleaning, training and validation, testing, prediction(small bug), config files and apply early stopping and saving and loading checkpoints on gpu and cpu
+- [local script](https://github.com/tinghe14/Reusable-Code/blob/c92d74df0b19c767a302271cb663fefb9d35c1f0/Model/Model%20Training/%20Local%20Script/README.md):contains scripts from pre-cleaning, training and validation, testing, prediction, config files and apply early stopping and saving and loading checkpoints, training on gpu and cpu locally
 - [huggingface transfer learning train, validate and predict in scripts submitted to cloud/GCP]()
 - [huggingface transfer learning train, validate and predict in scripts submitted to cluster]()
 ### Multi GPU
