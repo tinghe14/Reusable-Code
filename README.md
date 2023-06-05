@@ -28,7 +28,7 @@ transform raw data into useable format
 ### Read File
 <a id='rf'></a>
 - [read csv one by one and clean at same time](https://github.com/tinghe14/Reusable-Code/blob/ab1f36b3db68cadbfe04f88b88bda2471168c743/Data%20Wrangling/Read%20File/0.py)
-- [make directory]()
+- [make directory](https://github.com/tinghe14/Reusable-Code/blob/adecc22f023297997937c0e828aa71e6002fdd65/Data%20Wrangling/Make%20Dic/0.py)
 
 # Model
 <a id='model'></a>
