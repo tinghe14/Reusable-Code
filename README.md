@@ -11,14 +11,16 @@ $`\textcolor{green}{\text{3}}`$
 
 # Table of Contents (ongoing)
 1. [data wrangling](#dw)
-  - [read file](#rf)
+      - [read file](#rf)
 3. [model](#model)
-  - [model training](#mt)
-  - [multi GPU](#mgpu)
-  - [distributed data parallel](#ddp)
-  - [small trick](#st)
-5. [advanced technique in ML](#atim)
-6. [great notebook](#gn)
+      - [model training](#mt)
+      - [multi GPU](#mgpu)
+      - [distributed data parallel](#ddp)
+      - [small trick](#st)
+5. [utils](#utils)
+      - [structure of directory in md](#sodim)
+7. [advanced technique in ML](#atim)
+8. [great notebook](#gn)
 
 # Data Wrangling
 <a id='dw'></a>
@@ -44,6 +46,13 @@ anything from construct model architecture to training, evaluating model perform
 ### Small Trick
 <a id='st'></a>
 - [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
+
+# Utils
+<a id='utils'></a>
+general functions which not involve any bussiness logic
+### Structure of Directory in MD
+<a id='sodim'></a>
+- [package runnning in bash](https://github.com/michalbe/md-file-tree)
 
 # Advanced Technique in ML
 ### Ensemble 
