@@ -10,29 +10,40 @@ $`\textcolor{green}{\text{3}}`$
 <a id='tag'></a> [something pointer](#tag)
 
 # Table of Contents (ongoing)
-1. data wrangling
-2. model
-3. advanced technique in ML
-4. great notebook
+1. [data wrangling](#dw)
+  - [read file](#rf)
+3. [model](#model)
+  - [model training](#mt)
+  - [multi GPU](#mgpu)
+  - [distributed data parallel](#ddp)
+  - [small trick](#st)
+5. [advanced technique in ML](#atim)
+6. [great notebook](#gn)
 
 # Data Wrangling
+<a id='dw'></a>
 transform raw data into useable format
 ### Read File
-- [read csv one by one](https://github.com/tinghe14/Reusable-Code/blob/ab1f36b3db68cadbfe04f88b88bda2471168c743/Data%20Wrangling/Read%20File/0.py)
+<a id='rf'></a>
+- [read csv one by one and clean at same time](https://github.com/tinghe14/Reusable-Code/blob/ab1f36b3db68cadbfe04f88b88bda2471168c743/Data%20Wrangling/Read%20File/0.py)
 
 # Model
+<a id='model'></a>
 anything from construct model architecture to training, evaluating model performance
-### Model Construction
-- [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
 ### Model Training
-- [huggingface transfer learning train, validate and predict in scripts submitted to google colab]()
+<a id='mt'></a>
+- [local script]():contain scripts from pre-cleaning, training and validation, testing, prediction(small bug), config files and apply early stopping and saving and loading checkpoints on gpu and cpu
 - [huggingface transfer learning train, validate and predict in scripts submitted to cloud/GCP]()
 - [huggingface transfer learning train, validate and predict in scripts submitted to cluster]()
-### GPUs
-- [single GPU]
+### Multi GPU
+<a id='mgpu'></a>
 - [multi GPUs]
 ### Distributed Data Parallel
+<a id='ddp'></a>
 - [Other blog in Chinese - 分布式训练 - 多机多卡](https://blog.csdn.net/love1005lin/article/details/116456422)
+### Small Trick
+<a id='st'></a>
+- [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
 
 # Advanced Technique in ML
 ### Ensemble 
