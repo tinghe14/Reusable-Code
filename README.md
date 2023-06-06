@@ -14,7 +14,7 @@ $`\textcolor{green}{\text{3}}`$
       - [read file](#rf)
 3. [model](#model)
       - [model training](#mt)
-      - [multi GPU](#mgpu)
+      - [multi GPUs](#mgpu)
       - [distributed data parallel](#ddp)
       - [small trick](#st)
 5. [utils](#utils)
