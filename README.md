@@ -29,7 +29,7 @@ transform raw data into useable format
 <a id='rf'></a>
 - my script - [read csv one by one and clean at same time](https://github.com/tinghe14/Reusable-Code/blob/ab1f36b3db68cadbfe04f88b88bda2471168c743/Data%20Wrangling/Read%20File/0.py)
 - [make directory tree](https://github.com/tinghe14/Reusable-Code/blob/adecc22f023297997937c0e828aa71e6002fdd65/Data%20Wrangling/Make%20Dic/0.py)
-- my script - [generate requirements txt file](https://stackoverflow.com/questions/35796968/get-all-modules-packages-used-by-a-python-project)
+- my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
 
 # Model
 <a id='model'></a>
