@@ -36,9 +36,9 @@ anything from construct model architecture to training, evaluating model perform
 ### Model Training
 <a id='mt'></a>
 - my script - [local script example](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/README.md)
-  - contains scripts from pre-cleaning, training and validation, testing, prediction, config files and apply early stopping and saving and loading checkpoints, training on gpu and cpu locally
-- [huggingface transfer learning train, validate and predict in scripts submitted to cloud/GCP]()
-- [huggingface transfer learning train, validate and predict in scripts submitted to cluster]()
+  - contains scripts from pre-cleaning, training and validation, testing, config files and apply early stopping and saving and loading checkpoints, training on gpu and cpu locally
+- my script - [use argparse package instead of config](https://github.com/tinghe14/Reusable-Code/blob/98412eaa26c154bcdf55ed3c0a9d2301b376e22a/Model/Model%20Training/trainer/task.py): easy to run in the terminal
+- [GCP version]()
 ### Multi GPU
 <a id='mgpu'></a>
 - [multi GPUs]
