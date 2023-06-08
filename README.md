@@ -28,7 +28,6 @@ transform raw data into useable format
 ### Read File
 <a id='rf'></a>
 - my script - [read csv one by one and clean at same time](https://github.com/tinghe14/Reusable-Code/blob/ab1f36b3db68cadbfe04f88b88bda2471168c743/Data%20Wrangling/Read%20File/0.py)
-- [make directory tree](https://github.com/tinghe14/Reusable-Code/blob/adecc22f023297997937c0e828aa71e6002fdd65/Data%20Wrangling/Make%20Dic/0.py)
 - my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
 
 # Model
@@ -36,7 +35,7 @@ transform raw data into useable format
 anything from construct model architecture to training, evaluating model performance
 ### Model Training
 <a id='mt'></a>
-- [my code for local script example](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/README.md)
+- my script - [local script example](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/README.md)
   - contains scripts from pre-cleaning, training and validation, testing, prediction, config files and apply early stopping and saving and loading checkpoints, training on gpu and cpu locally
 - [huggingface transfer learning train, validate and predict in scripts submitted to cloud/GCP]()
 - [huggingface transfer learning train, validate and predict in scripts submitted to cluster]()
@@ -55,7 +54,8 @@ anything from construct model architecture to training, evaluating model perform
 general functions which not involve any bussiness logic
 ### Structure of Directory in MD
 <a id='sodim'></a>
-- [package runnning in bash](https://github.com/michalbe/md-file-tree)
+- other package: [generate tree of files under directory](https://github.com/michalbe/md-file-tree)
+- my script: [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/adecc22f023297997937c0e828aa71e6002fdd65/Data%20Wrangling/Make%20Dic/0.py)
 
 # Advanced Technique in ML
 ### Ensemble 
