@@ -7,29 +7,25 @@ Originally, this scrpts is for ner task using bert model.
 # Structure
 - 📂 __Gene\_NER\_Clean\_Script\_wocluster__
    - 📂 __input__
-     - 📄 devel.tsv
-     - 📄 merge.tsv
-     - 📄 test.tsv
-     - 📄 train.tsv
+     - 📄 some files
      - 📂 __clean__
-       - 📄 tag\_set.npy
-       - 📄 test\_sent.npy
-       - 📄 test\_tag.npy
-       - 📄 train\_sent.npy
-       - 📄 train\_tag.npy
-   - 📄 config.py
-   - 📄 data\_process.py
-   - 📄 main.py
-   - 📄 model.py
-   - 📄 predict.py
-   - 📄 test.py
-   - 📄 train.py
-   - 📄 utils.py
+       - 📄 some files
+   - 📄 [config.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/config.py)
+   - 📄 [data\_process.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/data_process.py)
+   - 📄 [main.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/main.py)
+   - 📄 [model.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/model.py)
+   - 📄 [predict.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/predict.py)
+   - 📄 [test.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/test.py)
+   - 📄 [train.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/train.py)
+   - 📄 [utils.py](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/Gene_NER_Clean_Script_wocluster/utils.py)
    - 📂 __output__
+      - 📄 some plots and files
 
 # Descriptions
-- can run on gpu and cpu locally, but can't upload to cloud 
-- after running main.py script, it will generate merge.tsv in input folder, all the npy files in clean folder and saved model checkpoints(weight and optimizer), best and final result report, plot of validation accuracy among epochs for overall tags and major tags, and plot of training and validation loss among epochs
+- note: this code can run on gpu and cpu locally, but can't upload to cloud 
+- config.py contains hyperparameter information and some varaibles releated to study setting
+- after running main.py script, it will tokenize the words, train the bert model, save model checkpoints(weight and optimizer) based on best validation loss, save best and final result reports, save plot of validation accuracy among epochs for overall tags and major tags, and plot of training and validation loss among epochs
+- test.py will load the last and best models and check their performance on the test dataset
 
 # Reference
 1. [陈华编程-Pytorch Bert_BiLSTM_CRF_NER 中文医疗命名实体识别项目](http://www.ichenhua.cn/edu/course/24): help me transfer from spaghetti code to script and I learn how to debug the script
