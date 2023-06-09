@@ -28,7 +28,7 @@ transform raw data into useable format
 ### Read File
 <a id='rf'></a>
 - my script - [read csv one by one and clean at same time](https://github.com/tinghe14/Reusable-Code/blob/ab1f36b3db68cadbfe04f88b88bda2471168c743/Data%20Wrangling/Read%20File/0.py)
-- my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
+
 
 # Model
 <a id='model'></a>
@@ -57,6 +57,7 @@ general functions which not involve any bussiness logic
 <a id='sodim'></a>
 - other package: [generate tree of files under directory](https://github.com/michalbe/md-file-tree)
 - my script: [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/adecc22f023297997937c0e828aa71e6002fdd65/Data%20Wrangling/Make%20Dic/0.py)
+- my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
 
 # Advanced Technique in ML
 ### Ensemble 
