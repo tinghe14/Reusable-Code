@@ -47,7 +47,7 @@ anything from construct model architecture to training, evaluating model perform
 ### Small Trick
 <a id='st'></a>
 - my script - [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/db1f7eb6aa37d3bc138d617e4fdbe6e76f1a53cd/Model/Small%20Trick/Summary%20Param/0_summary_parameter.py)
-- my note - [expect to be on the same device](https://github.com/tinghe14/Reusable-Code/blob/726c229effb130d89f6f7de014a36613ea167d0b/Model/Small%20Trick/Expect%20Same%20Device/0_expect_same_device.md)
+- my note - [error: expect to be on the same device](https://github.com/tinghe14/Reusable-Code/blob/6e5c5588a6dbb5f26fcc3a6518d255bdea6d1df8/Model/Small%20Trick/Expect%20Same%20Device/0_expect_same_device.md)
 
 # Utils
 <a id='utils'></a>
