@@ -47,7 +47,8 @@ anything from construct model architecture to training, evaluating model perform
 - [Other blog in Chinese - 分布式训练 - 多机多卡](https://blog.csdn.net/love1005lin/article/details/116456422)
 ### Small Trick
 <a id='st'></a>
-- [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
+- my script - [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
+- my note - [expect to be on the same device]
 
 # Utils
 <a id='utils'></a>
