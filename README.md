@@ -34,9 +34,10 @@ transform raw data into useable format
 anything from construct model architecture to training, evaluating model performance
 ### Model Training
 <a id='mt'></a>
-- my script - [local script example](https://github.com/tinghe14/Reusable-Code/blob/5c5840f6193a6bc7046cc25af9053d582660eabe/Model/Model%20Training/%20Local%20Script/README.md)
+- my script - [local script example](Model/Model Training/ Local Script)
   - contains scripts from pre-cleaning, training and validation, testing, config files and apply early stopping and saving and loading checkpoints, training on gpu and cpu locally
-- my script - [use argparse package instead of config](https://github.com/tinghe14/Reusable-Code/blob/98412eaa26c154bcdf55ed3c0a9d2301b376e22a/Model/Model%20Training/trainer/task.py): easy to run in the terminal
+- my script - use argparse package instead of config: easy to run in the terminal
+      - my script - [add small trick to be able to run at Colab](): (1)add -f argument (2)copy file from gdrive to current colab temporary directory (3)copy the task.py to main.ipynb and run on the main.ipynb
 - [GCP version]()
 ### Multi GPUs
 <a id='mgpu'></a>
