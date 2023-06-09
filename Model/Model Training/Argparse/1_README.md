@@ -10,13 +10,12 @@ Originally, this scrpts is for ner task using bert model.
      - 📄 some files
      - 📂 __clean__
        - 📄 some files
-   - 📄 [data\_process.py]()
-   - 📄 [task.py]()
-   - 📄 [model.py]()
-   - 📄 [predict.py]()
-   - 📄 [test.py]()
-   - 📄 [train.py]()
-   - 📄 [utils.py]()
+   - 📄 [data\_process.py](https://github.com/tinghe14/Reusable-Code/blob/33540ad7455fd9733a89d96aac30dd13ef60b525/Model/Model%20Training/Argparse/data_process.py)
+   - 📄 [task.py](https://github.com/tinghe14/Reusable-Code/blob/33540ad7455fd9733a89d96aac30dd13ef60b525/Model/Model%20Training/Argparse/task.py)
+   - 📄 [model.py](https://github.com/tinghe14/Reusable-Code/blob/33540ad7455fd9733a89d96aac30dd13ef60b525/Model/Model%20Training/Argparse/model.py)
+   - 📄 [test.py](https://github.com/tinghe14/Reusable-Code/blob/33540ad7455fd9733a89d96aac30dd13ef60b525/Model/Model%20Training/Argparse/test.py)
+   - 📄 [train.py](https://github.com/tinghe14/Reusable-Code/blob/33540ad7455fd9733a89d96aac30dd13ef60b525/Model/Model%20Training/Argparse/train.py)
+   - 📄 [utils.py](https://github.com/tinghe14/Reusable-Code/blob/33540ad7455fd9733a89d96aac30dd13ef60b525/Model/Model%20Training/Argparse/utils.py)
    - 📂 __output__
       - 📄 some plots and files
    - 📄 [main.ipynb]()
