@@ -48,7 +48,7 @@ anything from construct model architecture to training, evaluating model perform
 ### Small Trick
 <a id='st'></a>
 - my script - [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
-- my note - [expect to be on the same device]
+- my note - [expect to be on the same device](https://github.com/tinghe14/Reusable-Code/blob/b6c1aabd1ddcc0b470b6090973f38376723197fd/Model/Model%20Training/Small%20Trick/0_debug_expect_same_device.md)
 
 # Utils
 <a id='utils'></a>
