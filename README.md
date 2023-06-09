@@ -18,9 +18,8 @@ $`\textcolor{green}{\text{3}}`$
       - [distributed data parallel](#ddp)
       - [small trick](#st)
 5. [utils](#utils)
-      - [structure of directory in md](#sodim)
-7. [advanced technique in ML](#atim)
-8. [great notebook](#gn)
+6. [advanced technique in ML](#atim)
+7. [great notebook](#gn)
 
 # Data Wrangling
 <a id='dw'></a>
@@ -39,7 +38,7 @@ anything from construct model architecture to training, evaluating model perform
   - contains scripts from pre-cleaning, training and validation, testing, config files and apply early stopping and saving and loading checkpoints, training on gpu and cpu locally
 - my script - [use argparse package instead of config](https://github.com/tinghe14/Reusable-Code/blob/98412eaa26c154bcdf55ed3c0a9d2301b376e22a/Model/Model%20Training/trainer/task.py): easy to run in the terminal
 - [GCP version]()
-### Multi GPU
+### Multi GPUs
 <a id='mgpu'></a>
 - [multi GPUs]
 ### Distributed Data Parallel
@@ -47,16 +46,15 @@ anything from construct model architecture to training, evaluating model perform
 - [Other blog in Chinese - 分布式训练 - 多机多卡](https://blog.csdn.net/love1005lin/article/details/116456422)
 ### Small Trick
 <a id='st'></a>
-- my script - [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/4c06afe57e9c0eb50344ed9424c083142da1b66f/Model/Model%20Construction/0.py)
+- my script - [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/db1f7eb6aa37d3bc138d617e4fdbe6e76f1a53cd/Model/Small%20Trick/Summary%20Param/0_summary_parameter.py)
 - my note - [expect to be on the same device](https://github.com/tinghe14/Reusable-Code/blob/b6c1aabd1ddcc0b470b6090973f38376723197fd/Model/Model%20Training/Small%20Trick/0_debug_expect_same_device.md)
 
 # Utils
 <a id='utils'></a>
 general functions which not involve any bussiness logic
-### Structure of Directory in MD
-<a id='sodim'></a>
+
 - other package: [generate tree of files under directory](https://github.com/michalbe/md-file-tree)
-- my script: [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/adecc22f023297997937c0e828aa71e6002fdd65/Data%20Wrangling/Make%20Dic/0.py)
+- my script: [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/c7bec6ed44d27782f882e4a9b33c80f8cd0dcc2d/Utils/Make%20Dir/0_make_direct.py)
 - my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
 
 # Advanced Technique in ML
