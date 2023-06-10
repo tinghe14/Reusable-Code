@@ -25,4 +25,4 @@ Originally, this scrpts is for ner task using bert model.
 - task.py(main.ipynb) contains hyperparameter information and some varaibles releated to study setting
 
 # Reference
-1. [An Analysis of Simple Data Augmentation for Named Entity Recognition](http://www.ichenhua.cn/edu/course/24](https://github.com/boschresearch/data-augmentation-coling2020): learn abour argparse and log packages
+1. [An Analysis of Simple Data Augmentation for Named Entity Recognition](https://github.com/boschresearch/data-augmentation-coling2020): learn about argparse and log packages
