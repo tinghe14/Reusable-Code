@@ -16,7 +16,7 @@ $`\textcolor{green}{\text{3}}`$
       - [model training](#mt)
       - [multi GPUs](#mgpu)
       - [distributed data parallel](#ddp)
-      - [small trick](#st)
+      - [small tricks](#st)
 5. [utils](#utils)
 6. [advanced technique in ML](#atim)
 7. [great notebook](#gn)
@@ -31,7 +31,7 @@ transform raw data into useable format
 
 # Model
 <a id='model'></a>
-anything from construct model architecture to training, evaluating model performance
+build, train, evaluate model
 ### Model Training
 <a id='mt'></a>
 - my script - [local script example](https://github.com/tinghe14/Reusable-Code/tree/92b083ab226d24dfc3dc75fabee77a3623789180/Model/Model%20Training/%20Local%20Script)
@@ -45,7 +45,7 @@ anything from construct model architecture to training, evaluating model perform
 ### Distributed Data Parallel
 <a id='ddp'></a>
 - [Other blog in Chinese - 分布式训练 - 多机多卡](https://blog.csdn.net/love1005lin/article/details/116456422)
-### Small Trick
+### Small Tricks
 <a id='st'></a>
 - my script - [breif summary of training parametes in NN](https://github.com/tinghe14/Reusable-Code/blob/db1f7eb6aa37d3bc138d617e4fdbe6e76f1a53cd/Model/Small%20Trick/Summary%20Param/0_summary_parameter.py)
 - my note - [error: expect to be on the same device](https://github.com/tinghe14/Reusable-Code/blob/6e5c5588a6dbb5f26fcc3a6518d255bdea6d1df8/Model/Small%20Trick/Expect%20Same%20Device/0_expect_same_device.md)
@@ -53,7 +53,6 @@ anything from construct model architecture to training, evaluating model perform
 # Utils
 <a id='utils'></a>
 general functions which not involve any bussiness logic
-
 - other package: [generate tree of files under directory](https://github.com/michalbe/md-file-tree)
 - my script: [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/c7bec6ed44d27782f882e4a9b33c80f8cd0dcc2d/Utils/Make%20Dir/0_make_direct.py)
 - my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
