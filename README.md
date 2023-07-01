@@ -54,8 +54,9 @@ build, train, evaluate model
 <a id='utils'></a>
 general functions which not involve any bussiness logic
 - other package: [generate tree of files under directory](https://github.com/michalbe/md-file-tree)
-- my script: [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/c7bec6ed44d27782f882e4a9b33c80f8cd0dcc2d/Utils/Make%20Dir/0_make_direct.py)
+- my script - [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/c7bec6ed44d27782f882e4a9b33c80f8cd0dcc2d/Utils/Make%20Dir/0_make_direct.py)
 - my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
+- my script - [load files by ordering of file names; assert; time in clean format](https://github.com/tinghe14/Reusable-Code/blob/main/Utils/Time/0_time.py)
 
 # Advanced Technique in ML
 ### Ensemble 
