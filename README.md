@@ -18,6 +18,7 @@ $`\textcolor{green}{\text{3}}`$
       - [distributed data parallel](#ddp)
       - [small tricks](#st)
 5. [utils](#utils)
+      - [mount gDrive](#mg)
 6. [advanced technique in ML](#atim)
 7. [great notebook](#gn)
 
@@ -59,7 +60,8 @@ general functions which not involve any bussiness logic
 - my script - [load files by ordering of file names; assert; time in clean format](https://github.com/tinghe14/Reusable-Code/blob/main/Utils/Time/0_time.py)
 - my script [ing] - [self defined metric clases](https://github.com/tinghe14/Reusable-Code/blob/5a694fedfc09c024d867c50bc23458fa0efacfd1/Utils/Self%20Metric/0_self_metric.py)
 - my script - [logger handler](https://github.com/tinghe14/Reusable-Code/blob/471c37d94d0509a33b79914fc15c9bf1fa94f723/Utils/Logger%20Handler/0_logger.py)
-
+<a id='mg'></a>
+- my script - [mount gDrive]()
 # Advanced Technique in ML
 ### Ensemble 
 - [Huge Ensemble](https://www.kaggle.com/code/thedevastator/huge-ensemble)
