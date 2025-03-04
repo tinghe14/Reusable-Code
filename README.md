@@ -55,13 +55,12 @@ build, train, evaluate model
 <a id='utils'></a>
 general functions which not involve any bussiness logic
 - other package: [generate tree of files under directory](https://github.com/michalbe/md-file-tree)
-- my script - [check folder if not create one](https://github.com/tinghe14/Reusable-Code/blob/c7bec6ed44d27782f882e4a9b33c80f8cd0dcc2d/Utils/Make%20Dir/0_make_direct.py)
 - my script - [generate requirements txt file](https://github.com/tinghe14/Reusable-Code/blob/61768a95e5cd9a65bbd757addd676725803607ed/Data%20Wrangling/Make%20Req%20File/0.py)
 - my script - [load files by ordering of file names; assert; time in clean format](https://github.com/tinghe14/Reusable-Code/blob/main/Utils/Time/0_time.py)
 - my script [ing] - [self defined metric clases](https://github.com/tinghe14/Reusable-Code/blob/5a694fedfc09c024d867c50bc23458fa0efacfd1/Utils/Self%20Metric/0_self_metric.py)
 - my script - [logger handler](https://github.com/tinghe14/Reusable-Code/blob/471c37d94d0509a33b79914fc15c9bf1fa94f723/Utils/Logger%20Handler/0_logger.py)
 <a id='mg'></a>
-- my script - [mount gDrive](https://github.com/tinghe14/Reusable-Code/blob/ef2fc5d8852911708a04d23d6b36e71bc09d15b8/Utils/Mount%20gDrive/0_mount_gdrive.py)
+- my script - [mount gDrive](https://github.com/tinghe14/Reusable-Code/blob/ef2fc5d8852911708a04d23d6b36e71bc09d15b8/Utils/Mount%20gDrive/0_mount_gdrive.py):contains(1)make dir when not exist, (2)explanations of path in linux command
 # Advanced Technique in ML
 ### Ensemble 
 - [Huge Ensemble](https://www.kaggle.com/code/thedevastator/huge-ensemble)
