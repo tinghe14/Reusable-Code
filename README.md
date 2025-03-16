@@ -19,6 +19,7 @@ $`\textcolor{green}{\text{3}}`$
       - [small tricks](#st)
 5. [utils](#utils)
       - [mount gDrive](#mg)
+      - [audio alert in jupyter](#aaij)
 6. [advanced technique in ML](#atim)
 7. [great notebook](#gn)
 
@@ -61,6 +62,8 @@ general functions which not involve any bussiness logic
 - my script - [logger handler](https://github.com/tinghe14/Reusable-Code/blob/471c37d94d0509a33b79914fc15c9bf1fa94f723/Utils/Logger%20Handler/0_logger.py)
 <a id='mg'></a>
 - my script - [mount gDrive](https://github.com/tinghe14/Reusable-Code/blob/ef2fc5d8852911708a04d23d6b36e71bc09d15b8/Utils/Mount%20gDrive/0_mount_gdrive.py):contains(1)make dir when not exist, (2)explanations of path in linux command
+<a id='aaij'></a>
+- my script - [audio alert in jupyter]()
 # Advanced Technique in ML
 ### Ensemble 
 - [Huge Ensemble](https://www.kaggle.com/code/thedevastator/huge-ensemble)
